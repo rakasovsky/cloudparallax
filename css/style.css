@@ -135,3 +135,8 @@ p{
         margin: 5vh 0;
     }
 }
+@media  only screen and (max-width: 375px)  {
+    .clouds2 {
+        height: 260px;
+    }
+}
